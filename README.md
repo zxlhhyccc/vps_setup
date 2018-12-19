@@ -150,6 +150,7 @@ wget --no-check-certificate -O vps_setup.sh https://git.io/fx6UQ  && \
 chmod +x vps_setup.sh && ./vps_setup.sh
 ```
 
+手机参数：mode=fast2;key=密码;mtu=1300，ss端口：40000，kcp端口4000，ud2raw端口8855
 
 
 ### 获取自己所需服务软件的信息
